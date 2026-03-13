@@ -9,6 +9,7 @@ The monitoring system collects CPU, memory, and disk usage metrics from multiple
 #  🏗️Architecture
  ![Architecture Diagram](https://github.com/Sakshigond12/prometheus-grafana-ec2-monitoring/blob/main/architechture%20digram.png?raw=true)
 
+---
 
 # 📂Project Structure
 
@@ -27,9 +28,9 @@ prometheus-grafana-ec2-monitoring
       ├── grafana_dashboard.png
       ├── cpu_memory_disk_graphs.pn
       └── alert_rule.png
----
----
-
+```      
+      
+      
 # 🛠️Technologies Used
 
 - AWS EC2
@@ -49,11 +50,14 @@ Create Ubuntu EC2 instance and connect using SSH
 ssh -i key.pem ubuntu@your-ec2-ip
 ```
 
+
+
  1 monitoring instance - install Prometheus & grafana
 
  2 app-server 1 instance - install node_exporter
 
  3 app-server 2 instance - install node_exporter
+---
 
 ---
 ### 2 Security Group Ports
