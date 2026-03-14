@@ -57,6 +57,7 @@ ssh -i key.pem ubuntu@your-ec2-ip
  2 app-server 1 instance - install node_exporter
 
  3 app-server 2 instance - install node_exporter
+ 
 ---
 
 ---
