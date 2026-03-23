@@ -60,7 +60,6 @@ ssh -i key.pem ubuntu@your-ec2-ip
  
 ---
 
----
 ### 2 Security Group Ports
      http - 80
      prometheus - 9090
@@ -261,6 +260,8 @@ This project demonstrates how to build a real-time infrastructure monitoring sys
 - Interested in Cloud, Monitoring, and Automation
 
 🔗 GitHub: https://github.com/Sakshigond12
+
+🔗 LinkedIn: https://linkedin.com/in/sakshi-gond-9ab9092a2
 
 
 
