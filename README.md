@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Multi-Environment-Dev-Staging-Production-using-Terraform-Workspaces-
-=======
+
 # Real-Time Infrastructure Monitoring using Prometheus and Grafana on EC2
 
 # 📖Project Overview
@@ -27,6 +25,7 @@ prometheus-grafana-ec2-monitoring
 │
 ├── screenshots
       ├── prometheus_targets.png
+      ├── EC2-instance.png
       ├── node_exporter_metrics.png
       ├── grafana_dashboard.png
       ├── cpu_memory_disk_graphs.pn
@@ -231,6 +230,9 @@ Configure alert rules :
 ---
 
 #  📸 Project output
+
+### 💻 EC2 Instance
+![Prometheus Targets](https://github.com/Sakshigond12/prometheus-grafana-ec2-monitoring/blob/43409e47f54005f3ccaa6db8d788c36b11ded437/screenshort/Ec2-instance.png)
 
 ### 🔎 Prometheus Targets
 ![Prometheus Targets](https://github.com/Sakshigond12/prometheus-grafana-ec2-monitoring/blob/b29fef877f1de7e228239f1e9b7f9679184499b7/screenshort/prometheus_targets.png.png)
